@@ -1,0 +1,13 @@
+{
+  "name": "agripower/website",
+  "description": "AgriPower - Agricultural Power Distribution Management System",
+  "type": "project",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "AgriPower\\": "src/"
+    }
+  }
+}
